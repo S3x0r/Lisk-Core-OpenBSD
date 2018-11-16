@@ -10,7 +10,7 @@
    pkg_add postgresql-server<br>
 <br>
 4. Create user "lisk":<br>
-   adduser lisk<br>
+   adduser lisk
 <br>
 5. Configure postgresql:<br>
    su _postgresql<br>
