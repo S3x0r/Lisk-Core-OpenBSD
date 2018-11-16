@@ -1,4 +1,4 @@
-# Tutorial how to install Lisk Core node on OpenBSD 6.4 amd64
+<h2>Tutorial how to install Lisk Core node on OpenBSD 6.4 amd64</h2>
 
 1. Install tools needed:<br>
    pkg_add curl automake libtool git<br>
@@ -24,7 +24,7 @@
    cd lisk<br>
    git checkout (version) -b (version)<br>
    npm install<br>
-<br><br>
+<br>
    >if there is an error: "cb() never called", again:<br>
    npm install<br>
 <br>
