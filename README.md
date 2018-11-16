@@ -40,5 +40,5 @@
 
 10. Start node:<br>
     node app.js --network testnet<br>
-<br>
+
 Done!
