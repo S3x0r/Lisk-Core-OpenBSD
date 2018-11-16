@@ -2,9 +2,9 @@
 
 1. Install tools needed:<br>
    pkg_add curl automake libtool git<br>
-<br>
+
 2. Install nodejs:<br>
-   pkg_add node<br>
+   pkg_add node
 <br>
 3. Install postgresql:<br>
    pkg_add postgresql-server<br>
