@@ -7,7 +7,7 @@
    pkg_add node
 <br>
 3. Install postgresql:<br>
-   pkg_add postgresql-server<br>
+   pkg_add postgresql-server
 <br>
 4. Create user "lisk":<br>
    adduser lisk
